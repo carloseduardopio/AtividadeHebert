@@ -1,0 +1,9 @@
+Nome do aluno
+Nome:Carlos Eduardo Pio Pinheiro
+RA do Aluno
+RA:2222106602
+Números digitados:
+num1: 12
+num2: 5
+Igualdade: false
+Identico: false
